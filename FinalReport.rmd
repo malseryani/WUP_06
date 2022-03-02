@@ -68,7 +68,7 @@ According to the plots, it is clear that the white people and the other people f
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
-
+Based off of the numerical data, we can see that the majority of white people favor capitol punishment whereas, the majority of black people are against it. We can suspect that the black people are different based off of the majority's great different.
 
 
 ## Now with More data
