@@ -1,7 +1,7 @@
 ---
 title: "GSS challange"
-author: "Put your name here!"
-date: "put the date here"
+author: "Madeleine Alseryani"
+date: "Spring 2022"
 output: html_document
 ---
 
@@ -62,7 +62,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-
+According to the plots, it is clear that the white people and the other people favor capitol punishment more than they oppose it and the black people oppose capitol punishmnt more than they favor it.
 
 ### Numerical Descriptive Results
 
