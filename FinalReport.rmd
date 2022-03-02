@@ -68,7 +68,7 @@ Based off of the plots, it looks like there is not a significant difference betw
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
-
+According to the numerical results, the white people and the other people have less than one percent of a difference. They are very close. Whereas, the black people are the ones  who stand out and are the only ones that are different.
 
 
 ## Now with less data
