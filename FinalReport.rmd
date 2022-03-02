@@ -166,7 +166,10 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$cappun,mydata$race)
 ```
  
+After the fisherxy test, we can see that there is a significant difference betweeen the white people and the black people. We can see that there is also a significant difference between the other people and the black people. 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In this branch, the results were that there was a significant difference between the white people and the black people, also the other people and the black people.But there was no difference between the white people and the other people. In the master branch, the results were that the white people, other people, and black people were all very different.  
