@@ -1,7 +1,7 @@
 ---
 title: "GSS challange"
-author: "Put your name here!"
-date: "put the date here"
+author: "Madeleine Alseryani"
+date: "Spring 2022"
 output: html_document
 ---
 
@@ -62,7 +62,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-
+Based off of the plots, it looks like there is not a significant difference between the white people and the other people. It looks like there is a difference between the white people and the black people, as well as the other people and the black people in terms of favoring capitol punishment. 
 
 ### Numerical Descriptive Results
 
